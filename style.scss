@@ -270,6 +270,16 @@ nav {
   border-bottom: none;
 }
 
+img.entry-image {
+  height: 270px;
+  width: 540px;
+}
+
+div.time {
+  font-size: 20px;
+
+}
+
 .post {
   blockquote {
     margin: 1.8em .8em;
@@ -301,6 +311,8 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
