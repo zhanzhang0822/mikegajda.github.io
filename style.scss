@@ -166,6 +166,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  text-align: center;
 
   @include mobile {
     text-align: center;
@@ -188,6 +189,9 @@ img {
 }
 
 .site-info {
+      float: none;
+    display: block;
+    margin: 0 auto;
 
   @include mobile {
     float: none;
