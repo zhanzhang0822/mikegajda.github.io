@@ -13,15 +13,25 @@
 /* BASE RULES */
 /**************/
 
+@font-face {
+    font-family: Inconsolata;
+    src: url(/Inconsolata/Inconsolata-Regular.ttf);
+}
+
 html {
   font-size: 100%;
 }
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 Inconsolata;
+
   color: $darkGray;
   margin: auto;
+  margin-top: 50px;
+  @include mobile {
+    margin-top: 0;
+  }
 }
 
 .container {
@@ -31,7 +41,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: Inconsolata;
   color: $darkerGray;
   font-weight: bold;
 
@@ -109,6 +119,7 @@ strong, b {
 .post-title {
   float: right;
   width: 40%;
+    padding-left: 15px;
   @include mobile {
     float: none;
     width: auto;
@@ -169,6 +180,7 @@ strong, b {
   position: fixed;
   width: 30%;
   padding-right: 2.5%;
+  padding-left: 5%;
   @include mobile {
     position: relative;
     float: none;
@@ -179,7 +191,7 @@ strong, b {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  text-align: center;
+  text-align: right;
 
   @include mobile {
     text-align: center;
@@ -217,7 +229,7 @@ strong, b {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: Inconsolata;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -235,7 +247,7 @@ strong, b {
 
 nav {
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: Inconsolata;
   font-size: 18px;
 
   @include mobile {
@@ -265,8 +277,9 @@ nav {
 }
 
 #main {
-  width: 67.5%;
+  width: 62.5%;
   margin-left: 32.5%;
+  margin-right: 5%;
   @include mobile {
     margin-left: 0;
     width: auto;
@@ -274,13 +287,27 @@ nav {
 }
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
+  padding-top: 1em;
   border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+
+.post-title {
+  top: -14px;
+  position:relative;
+}
+.post-title > h1 {
+  margin: 0;
+}
+
+.post-title > h1 > a {
+  margin-top: 0;
+  padding-top: 0;
 }
 
 img.entry-image {
