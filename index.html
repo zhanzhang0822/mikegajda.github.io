@@ -10,6 +10,7 @@ layout: default
       	<h1>
       		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       		<div class="time"> {{ post.time }} </div>
+      		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">See more</a>
         </h1>
       </div>
 
@@ -17,11 +18,10 @@ layout: default
       <div class="entry">
       	<img class="entry-image" src="{{{ ![_config.yml]({{ site.baseurl }}/images/{{ post.image }}">
         
-        {{ post.excerpt }}
 
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">See more</a>
+      
     </article>
   {% endfor %}
 </div>
