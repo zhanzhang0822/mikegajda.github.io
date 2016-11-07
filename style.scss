@@ -107,8 +107,24 @@ strong, b {
   font-weight: bold;
 }
 
-img {
-  max-width: 100%;
+.post-title {
+  float: right;
+  width: 40%;
+  padding: 10px;
+  @include mobile {
+    float: none;
+    width: auto;
+  }
+}
+
+.entry {
+  float: left;
+  width: 60%;
+  padding: 10px;
+  @include mobile {
+    float: none;
+    width: auto;
+  }
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -271,8 +287,8 @@ nav {
 }
 
 img.entry-image {
-  height: 270px;
-  width: 540px;
+  width:100%; /* you can use % */
+    height: auto;
 }
 
 div.time {
