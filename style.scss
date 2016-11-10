@@ -29,6 +29,7 @@ body {
   color: $darkGray;
   margin: auto;
   margin-top: 50px;
+  max-width: 1200px;
   @include mobile {
     margin-top: 0;
   }
@@ -43,7 +44,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: Inconsolata;
   color: $darkerGray;
-  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -52,6 +52,10 @@ h1, h2, h3, h4, h5, h6 {
   @include mobile {
     line-height: 1.4;
   }
+}
+
+.uppercase {
+  text-transform: uppercase; 
 }
 
 h1 {
@@ -123,6 +127,7 @@ strong, b {
   @include mobile {
     float: none;
     width: auto;
+    padding-left: 0;
   }
 }
 
@@ -179,17 +184,20 @@ strong, b {
   float: right;
   position: fixed;
   width: 30%;
+  max-width: 269px;
   padding-right: 2.5%;
   padding-left: 5%;
+  text-transform: uppercase; 
   @include mobile {
     position: relative;
     float: none;
     width: auto;
+    max-width: 100%;
+    margin-bottom: 20px;
   }
 }
 
 .masthead {
-  padding: 20px 0;
   border-bottom: 1px solid $lightGray;
   text-align: right;
 
@@ -214,14 +222,12 @@ strong, b {
 }
 
 .site-info {
-      float: none;
-    display: block;
     margin: 0 auto;
+    top: -14px;
+    position: relative;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    top: 0;
   }
 }
 
@@ -247,6 +253,7 @@ strong, b {
 
 nav {
   margin-top: 23px; // @TODO: Vertically middle align
+  margin-bottom: 15px;
   font-family: Inconsolata;
   font-size: 18px;
 
@@ -283,13 +290,14 @@ nav {
   @include mobile {
     margin-left: 0;
     width: auto;
+    margin-right: 0;
   }
 }
 
 .posts > .post {
-  padding-bottom: 1em;
-  padding-top: 1em;
-  border-bottom: 1px solid $lightGray;
+  padding-bottom: 15px;
+  padding-top: 0;
+  border-bottom: 0px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -310,6 +318,20 @@ nav {
   padding-top: 0;
 }
 
+ul.tag-container {
+  margin: 0;
+  padding: 0;
+  margin-top: -6px;
+
+}
+
+li.tag {
+  list-style: none;
+  font-size: 20px;
+    text-transform: capitalize;
+    color: #afafaf;
+}
+
 img.entry-image {
   width:100%; /* you can use % */
     height: auto;
@@ -317,6 +339,11 @@ img.entry-image {
 
 div.time {
   font-size: 20px;
+  margin-top: -10px;
+
+  @include mobile {
+    margin-top: -8px;
+  }
 
 }
 

@@ -10,13 +10,20 @@ layout: default
       	<h1>
       		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       		<div class="time"> {{ post.time }} </div>
-      		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">See more</a>
+      		<ul class="tag-container">
+      		{% for tag in post.tags %}
+      			<li class="tag"><a class="tag-link" href="/tag/{{ tag }}">{{ tag }}</a></li>
+      		{% endfor %}
+      		</ul>
         </h1>
       </div>
 
 
       <div class="entry">
-      	<img class="entry-image" src="{{{ ![_config.yml]({{ site.baseurl }}/images/{{ post.image }}">
+      	<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+      		<img class="entry-image" src="{{{ ![_config.yml]({{ site.baseurl }}/images/{{ post.image }}">
+      	</a>
+
         
 
       </div>
