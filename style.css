@@ -241,7 +241,7 @@ strong, b {
 }
 
 .masthead {
-  border-bottom: 1px solid #eee;
+  border-bottom: 0 solid #eee;
   text-align: right;
 }
 @media screen and (max-width: 640px) {
