@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-11-15T21:52:16+08:00</updated><id>//</id><title type="html">Zhang Zhan</title><subtitle>Interactive Media Arts Student</subtitle><entry><title type="html">Laser Harp</title><link href="/laser-harp/" rel="alternate" type="text/html" title="Laser Harp" /><published>2014-12-01T00:00:00+08:00</published><updated>2014-12-01T00:00:00+08:00</updated><id>/laser-harp</id><content type="html" xml:base="/laser-harp/">&lt;p&gt;Laser Harp was created in December 2014 for Sound &amp;amp; Vision class at NYU Shanghai, inspired by a Coldplay live performance. I used 8 light sensors that connect to Arduino digital I/O pins and 8 small lasers that connect to 5V power pin. When the laser beams are blocked, similar to the strings of a harp being plucked, the digital read of the related light sensors will change and sounds will be produced. Sounds are produced by Max/MSP, and the serial communication is accopmlished by Arduino2Max. A fog machine makes the laser beams visible. The black boards are cut by a laser cutter.&lt;/p&gt;</content><category term="projects" /><summary type="html">Laser Harp was created in December 2014 for Sound &amp;amp; Vision class at NYU Shanghai, inspired by a Coldplay live performance. I used 8 light sensors that connect to Arduino digital I/O pins and 8 small lasers that connect to 5V power pin. When the laser beams are blocked, similar to the strings of a harp being plucked, the digital read of the related light sensors will change and sounds will be produced. Sounds are produced by Max/MSP, and the serial communication is accopmlished by Arduino2Max. A fog machine makes the laser beams visible. The black boards are cut by a laser cutter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/laser-harp-featured-image.jpg" /></entry><entry><title type="html">Kinsa, The Little Creepy Monster</title><link href="/kinsa-the-little-creepy-monster/" rel="alternate" type="text/html" title="Kinsa, The Little Creepy Monster" /><published>2014-05-01T00:00:00+08:00</published><updated>2014-05-01T00:00:00+08:00</updated><id>/kinsa-the-little-creepy-monster</id><content type="html" xml:base="/kinsa-the-little-creepy-monster/">&lt;p&gt;Animation project for Communications Lab class at NYU Shanghai. All the scenes were painted by my teammate Micelle Ma. Video edit and animation by Zhang Zhan and Kevin Pham.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-11-15T22:07:54+08:00</updated><id>//</id><title type="html">Zhang Zhan</title><subtitle>Interactive Media Arts Student</subtitle><entry><title type="html">Pop &amp;amp; Poem Typewriter</title><link href="/pop-and-poem-typewriter/" rel="alternate" type="text/html" title="Pop &amp; Poem Typewriter" /><published>2016-10-04T00:00:00+08:00</published><updated>2016-10-04T00:00:00+08:00</updated><id>/pop-and-poem-typewriter</id><content type="html" xml:base="/pop-and-poem-typewriter/">&lt;p&gt;Project Demo: &lt;a href=&quot;/pop-and-poem-typewriter&quot; target=&quot;_blank&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pop &amp;amp; Poem Typewriter is my midterm project for Code of Music class at NYU Shanghai. Each of the 40 Keys including A-Z(26), 0-9(10), Delete, Period, Comma, Space is linked to a small wav clip cut out from a pop song where the singer(s) spell out the letter or word. As you type a poem, a song made of those corresponding small clips will be triggered at the same time. I was looking to translate text into music to form the link between visual and aural via the contrast between letters in poem and pop music sound clips. To be honest, this project doesn’t have to involve poems, thus any text would trigger a piece of musical collage of short sound clips. I hope people could get a brand new experience of typing with the aural feedback that’s seldom happening when people type except for the monotone keyboard sound or the sounds of fingers hitting the buttons.&lt;/p&gt;
+
+&lt;p&gt;Song list:
+A - The Jackson 5 - ABC
+B - The Black Eyed Peas - Imma Be
+C - Wiz Khalifa - See You Again ft. Charlie Puth
+D - Fergie - Fergalicious
+E - Macklemore &amp;amp; Ryan Lewis - Can’t Hold Us feat. Ray Dalton
+F - Noah And The Whale - L.I.F.E.G.O.E.S.O.N.
+G - Girls’ Generation(소녀시대) - Gee
+H - Jay-Z - Izzo (H.O.V.A.)
+I - Selena Gomez &amp;amp; The Scene - Love You Like A Love Song
+J - Jason Derulo - Don’t Wanna Go Home
+K - The Script - If You See Kay
+L -  Madonna - Give Me All Your Luvin’ (Feat. M.I.A. and Nicki Minaj)
+M - Village People - YMCA
+N - Ke$ha - Dinosaur
+O - Nicki Minaj - Anaconda
+P - Aretha Franklin - Respect
+Q - 5 Seconds Of Summer - 18
+R - Paramore - The Only Exception
+S - Gwen Stefani - Hollaback Girl
+T - Justice - D.A.N.C.E.
+U - Katy Perry - Hot N Cold
+V - Nat King Cole - L-O-V-E
+W - Beyoncé - World Wide Woman
+X - deadmau5 ft. Gerard Way - Professional Griefers
+Y - MAGIC! - Rude
+Z - Spice Girls - Wannabe&lt;/p&gt;
+
+&lt;p&gt;1 - Drake - One Dance (feat. Wizkid &amp;amp; Kyla)
+2 - Justin Bieber - Sorry
+3 - Britney Spears - 3
+4 - Feist - 1234
+5 - The Proclaimers - I’m Gonna Be (500 Miles)
+6 - Far East Movement - Like A G6 ft. The Cataracs, DEV
+7 - Lukas Graham - 7 Years
+8 - Lady Gaga - Monster
+9 - Lana Del Rey - Summertime Sadness
+0 - Eminem - Space Bound&lt;/p&gt;
+
+&lt;p&gt;Delete - Maroon 5 - Unkiss Me
+Period - French Montana - Figure it Out ft. Kanye West, Nas
+Comma -  Coldplay - Every Teardrop Is a Waterfall
+Space - Taylor Swift -  Blank Space&lt;/p&gt;</content><category term="projects" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry><entry><title type="html">Laser Harp</title><link href="/laser-harp/" rel="alternate" type="text/html" title="Laser Harp" /><published>2014-12-01T00:00:00+08:00</published><updated>2014-12-01T00:00:00+08:00</updated><id>/laser-harp</id><content type="html" xml:base="/laser-harp/">&lt;p&gt;Laser Harp was created in December 2014 for Sound &amp;amp; Vision class at NYU Shanghai, inspired by a Coldplay live performance. I used 8 light sensors that connect to Arduino digital I/O pins and 8 small lasers that connect to 5V power pin. When the laser beams are blocked, similar to the strings of a harp being plucked, the digital read of the related light sensors will change and sounds will be produced. Sounds are produced by Max/MSP, and the serial communication is accopmlished by Arduino2Max. A fog machine makes the laser beams visible. The black boards are cut by a laser cutter.&lt;/p&gt;</content><category term="projects" /><summary type="html">Laser Harp was created in December 2014 for Sound &amp;amp; Vision class at NYU Shanghai, inspired by a Coldplay live performance. I used 8 light sensors that connect to Arduino digital I/O pins and 8 small lasers that connect to 5V power pin. When the laser beams are blocked, similar to the strings of a harp being plucked, the digital read of the related light sensors will change and sounds will be produced. Sounds are produced by Max/MSP, and the serial communication is accopmlished by Arduino2Max. A fog machine makes the laser beams visible. The black boards are cut by a laser cutter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/laser-harp-featured-image.jpg" /></entry><entry><title type="html">Kinsa, The Little Creepy Monster</title><link href="/kinsa-the-little-creepy-monster/" rel="alternate" type="text/html" title="Kinsa, The Little Creepy Monster" /><published>2014-05-01T00:00:00+08:00</published><updated>2014-05-01T00:00:00+08:00</updated><id>/kinsa-the-little-creepy-monster</id><content type="html" xml:base="/kinsa-the-little-creepy-monster/">&lt;p&gt;Animation project for Communications Lab class at NYU Shanghai. All the scenes were painted by my teammate Micelle Ma. Video edit and animation by Zhang Zhan and Kevin Pham.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/191445154&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/191445154&quot;&gt;Kinsa, The Little Creepy Monster&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><category term="videos" /><summary type="html">Animation project for Communications Lab class at NYU Shanghai. All the scenes were painted by my teammate Micelle Ma. Video edit and animation by Zhang Zhan and Kevin Pham.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/kinsa-the-little-creepy-monster-featured-image.jpg" /></entry><entry><title type="html">Little Talks</title><link href="/little-talks/" rel="alternate" type="text/html" title="Little Talks" /><published>2014-04-01T00:00:00+08:00</published><updated>2014-04-01T00:00:00+08:00</updated><id>/little-talks</id><content type="html" xml:base="/little-talks/">&lt;p&gt;Video project for Communications Lab class at NYU Shanghai. Lip sync video with the emphasis on creative transitions.&lt;/p&gt;
