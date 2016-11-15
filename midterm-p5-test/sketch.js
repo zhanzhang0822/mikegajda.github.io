@@ -179,7 +179,7 @@ function preload() {
   player_COMMA = new Tone.Player("/midterm-p5-test/samples/COMMA.wav");
   player_COMMA.toMaster();
   
-  myFont = loadFont('/midterm-p5-test/samples/assets/DejaVuSans-ExtraLight.ttf');
+  myFont = loadFont('/midterm-p5-test/assets/DejaVuSans-ExtraLight.ttf');
 
 }
 
