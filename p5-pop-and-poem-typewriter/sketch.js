@@ -56,130 +56,130 @@ var player_PERIOD;
 var player_COMMA;
 
 function preload() {
-  player_A = new Tone.Player("/pop-and-poem-typewriter/samples/A.wav");
+  player_A = new Tone.Player("/p5-pop-and-poem-typewriter/samples/A.wav");
   player_A.toMaster();
 
-  player_B = new Tone.Player("/pop-and-poem-typewriter/samples/B.wav");
+  player_B = new Tone.Player("/p5-pop-and-poem-typewriter/samples/B.wav");
   player_B.toMaster();
 
-  player_C = new Tone.Player("/pop-and-poem-typewriter/samples/C.wav");
+  player_C = new Tone.Player("/p5-pop-and-poem-typewriter/samples/C.wav");
   player_C.toMaster();
 
-  player_D = new Tone.Player("/pop-and-poem-typewriter/samples/D.wav");
+  player_D = new Tone.Player("/p5-pop-and-poem-typewriter/samples/D.wav");
   player_D.toMaster();
 
-  player_E = new Tone.Player("/pop-and-poem-typewriter/samples/E.wav");
+  player_E = new Tone.Player("/p5-pop-and-poem-typewriter/samples/E.wav");
   player_E.toMaster();
 
-  player_F = new Tone.Player("/pop-and-poem-typewriter/samples/F.wav");
+  player_F = new Tone.Player("/p5-pop-and-poem-typewriter/samples/F.wav");
   player_F.toMaster();
 
-  player_G = new Tone.Player("/pop-and-poem-typewriter/samples/G.wav");
+  player_G = new Tone.Player("/p5-pop-and-poem-typewriter/samples/G.wav");
   player_G.toMaster();
 
-  player_H = new Tone.Player("/pop-and-poem-typewriter/samples/H.wav");
+  player_H = new Tone.Player("/p5-pop-and-poem-typewriter/samples/H.wav");
   player_H.toMaster();
 
-  player_I = new Tone.Player("/pop-and-poem-typewriter/samples/I.wav");
+  player_I = new Tone.Player("/p5-pop-and-poem-typewriter/samples/I.wav");
   player_I.toMaster();
 
-  player_J = new Tone.Player("/pop-and-poem-typewriter/samples/J.wav");
+  player_J = new Tone.Player("/p5-pop-and-poem-typewriter/samples/J.wav");
   player_J.toMaster();
 
-  player_K = new Tone.Player("/pop-and-poem-typewriter/samples/K.wav");
+  player_K = new Tone.Player("/p5-pop-and-poem-typewriter/samples/K.wav");
   player_K.toMaster();
 
-  player_L = new Tone.Player("/pop-and-poem-typewriter/samples/L.wav");
+  player_L = new Tone.Player("/p5-pop-and-poem-typewriter/samples/L.wav");
   player_L.toMaster();
 
-  player_M = new Tone.Player("/pop-and-poem-typewriter/samples/M.wav");
+  player_M = new Tone.Player("/p5-pop-and-poem-typewriter/samples/M.wav");
   player_M.toMaster();
 
-  player_N = new Tone.Player("/pop-and-poem-typewriter/samples/N.wav");
+  player_N = new Tone.Player("/p5-pop-and-poem-typewriter/samples/N.wav");
   player_N.toMaster();
 
-  player_O = new Tone.Player("/pop-and-poem-typewriter/samples/O.wav");
+  player_O = new Tone.Player("/p5-pop-and-poem-typewriter/samples/O.wav");
   player_O.toMaster();
 
-  player_P = new Tone.Player("/pop-and-poem-typewriter/samples/P.wav");
+  player_P = new Tone.Player("/p5-pop-and-poem-typewriter/samples/P.wav");
   player_P.toMaster();
 
-  player_Q = new Tone.Player("/pop-and-poem-typewriter/samples/Q.wav");
+  player_Q = new Tone.Player("/p5-pop-and-poem-typewriter/samples/Q.wav");
   player_Q.toMaster();
 
-  player_R = new Tone.Player("/pop-and-poem-typewriter/samples/R.wav");
+  player_R = new Tone.Player("/p5-pop-and-poem-typewriter/samples/R.wav");
   player_R.toMaster();
 
-  player_S = new Tone.Player("/pop-and-poem-typewriter/samples/S.wav");
+  player_S = new Tone.Player("/p5-pop-and-poem-typewriter/samples/S.wav");
   player_S.toMaster();
 
-  player_T = new Tone.Player("/pop-and-poem-typewriter/samples/T.wav");
+  player_T = new Tone.Player("/p5-pop-and-poem-typewriter/samples/T.wav");
   player_T.toMaster();
 
-  player_U = new Tone.Player("/pop-and-poem-typewriter/samples/U.wav");
+  player_U = new Tone.Player("/p5-pop-and-poem-typewriter/samples/U.wav");
   player_U.toMaster();
 
-  player_V = new Tone.Player("/pop-and-poem-typewriter/samples/V.wav");
+  player_V = new Tone.Player("/p5-pop-and-poem-typewriter/samples/V.wav");
   player_V.toMaster();
 
-  player_W = new Tone.Player("/pop-and-poem-typewriter/samples/W.wav");
+  player_W = new Tone.Player("/p5-pop-and-poem-typewriter/samples/W.wav");
   player_W.toMaster();
 
-  player_X = new Tone.Player("/pop-and-poem-typewriter/samples/X.wav");
+  player_X = new Tone.Player("/p5-pop-and-poem-typewriter/samples/X.wav");
   player_X.toMaster();
 
-  player_Y = new Tone.Player("/pop-and-poem-typewriter/samples/Y.wav");
+  player_Y = new Tone.Player("/p5-pop-and-poem-typewriter/samples/Y.wav");
   player_Y.toMaster();
 
-  player_Z = new Tone.Player("/pop-and-poem-typewriter/samples/Z.wav");
+  player_Z = new Tone.Player("/p5-pop-and-poem-typewriter/samples/Z.wav");
   player_Z.toMaster();
 
   //////////////
-  player_0 = new Tone.Player("/pop-and-poem-typewriter/samples/0.wav");
+  player_0 = new Tone.Player("/p5-pop-and-poem-typewriter/samples/0.wav");
   player_0.toMaster();
 
-  player_1 = new Tone.Player("/pop-and-poem-typewriter/samples/1.wav");
+  player_1 = new Tone.Player("/p5-pop-and-poem-typewriter/samples/1.wav");
   player_1.toMaster();
 
-  player_2 = new Tone.Player("/pop-and-poem-typewriter/samples/2.wav");
+  player_2 = new Tone.Player("/p5-pop-and-poem-typewriter/samples/2.wav");
   player_2.toMaster();
 
-  player_3 = new Tone.Player("/pop-and-poem-typewriter/samples/3.wav");
+  player_3 = new Tone.Player("/p5-pop-and-poem-typewriter/samples/3.wav");
   player_3.toMaster();
 
-  player_4 = new Tone.Player("/pop-and-poem-typewriter/samples/4.wav");
+  player_4 = new Tone.Player("/p5-pop-and-poem-typewriter/samples/4.wav");
   player_4.toMaster();
 
-  player_5 = new Tone.Player("/pop-and-poem-typewriter/samples/5.wav");
+  player_5 = new Tone.Player("/p5-pop-and-poem-typewriter/samples/5.wav");
   player_5.toMaster();
 
-  player_6 = new Tone.Player("/pop-and-poem-typewriter/samples/6.wav");
+  player_6 = new Tone.Player("/p5-pop-and-poem-typewriter/samples/6.wav");
   player_6.toMaster();
 
-  player_7 = new Tone.Player("/pop-and-poem-typewriter/samples/7.wav");
+  player_7 = new Tone.Player("/p5-pop-and-poem-typewriter/samples/7.wav");
   player_7.toMaster();
 
-  player_8 = new Tone.Player("/pop-and-poem-typewriter/samples/8.wav");
+  player_8 = new Tone.Player("/p5-pop-and-poem-typewriter/samples/8.wav");
   player_8.toMaster();
 
-  player_9 = new Tone.Player("/pop-and-poem-typewriter/samples/9.wav");
+  player_9 = new Tone.Player("/p5-pop-and-poem-typewriter/samples/9.wav");
   player_9.toMaster();
 
   //////////////
-  player_SPACE = new Tone.Player("/pop-and-poem-typewriter/samples/SPACE.wav");
+  player_SPACE = new Tone.Player("/p5-pop-and-poem-typewriter/samples/SPACE.wav");
   player_SPACE.toMaster();
 
-  player_DELETE = new Tone.Player("/pop-and-poem-typewriter/samples/DELETE.wav");
+  player_DELETE = new Tone.Player("/p5-pop-and-poem-typewriter/samples/DELETE.wav");
   player_DELETE.toMaster();
 
   //////////////
-  player_PERIOD = new Tone.Player("/pop-and-poem-typewriter/samples/PERIOD.wav");
+  player_PERIOD = new Tone.Player("/p5-pop-and-poem-typewriter/samples/PERIOD.wav");
   player_PERIOD.toMaster();
 
-  player_COMMA = new Tone.Player("/pop-and-poem-typewriter/samples/COMMA.wav");
+  player_COMMA = new Tone.Player("/p5-pop-and-poem-typewriter/samples/COMMA.wav");
   player_COMMA.toMaster();
   
-  myFont = loadFont('/pop-and-poem-typewriter/assets/DejaVuSans-ExtraLight.ttf');
+  myFont = loadFont('/p5-pop-and-poem-typewriter/assets/DejaVuSans-ExtraLight.ttf');
 
 }
 
