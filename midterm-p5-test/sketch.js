@@ -56,127 +56,127 @@ var player_PERIOD;
 var player_COMMA;
 
 function preload() {
-  player_A = new Tone.Player("/midterm-p5-test/samples/samples/A.wav");
+  player_A = new Tone.Player("/midterm-p5-test/samples/A.wav");
   player_A.toMaster();
 
-  player_B = new Tone.Player("/midterm-p5-test/samples/samples/B.wav");
+  player_B = new Tone.Player("/midterm-p5-test/samples/B.wav");
   player_B.toMaster();
 
-  player_C = new Tone.Player("/midterm-p5-test/samples/samples/C.wav");
+  player_C = new Tone.Player("/midterm-p5-test/samples/C.wav");
   player_C.toMaster();
 
-  player_D = new Tone.Player("/midterm-p5-test/samples/samples/D.wav");
+  player_D = new Tone.Player("/midterm-p5-test/samples/D.wav");
   player_D.toMaster();
 
-  player_E = new Tone.Player("/midterm-p5-test/samples/samples/E.wav");
+  player_E = new Tone.Player("/midterm-p5-test/samples/E.wav");
   player_E.toMaster();
 
-  player_F = new Tone.Player("/midterm-p5-test/samples/samples/F.wav");
+  player_F = new Tone.Player("/midterm-p5-test/samples/F.wav");
   player_F.toMaster();
 
-  player_G = new Tone.Player("/midterm-p5-test/samples/samples/G.wav");
+  player_G = new Tone.Player("/midterm-p5-test/samples/G.wav");
   player_G.toMaster();
 
-  player_H = new Tone.Player("/midterm-p5-test/samples/samples/H.wav");
+  player_H = new Tone.Player("/midterm-p5-test/samples/H.wav");
   player_H.toMaster();
 
-  player_I = new Tone.Player("/midterm-p5-test/samples/samples/I.wav");
+  player_I = new Tone.Player("/midterm-p5-test/samples/I.wav");
   player_I.toMaster();
 
-  player_J = new Tone.Player("/midterm-p5-test/samples/samples/J.wav");
+  player_J = new Tone.Player("/midterm-p5-test/samples/J.wav");
   player_J.toMaster();
 
-  player_K = new Tone.Player("/midterm-p5-test/samples/samples/K.wav");
+  player_K = new Tone.Player("/midterm-p5-test/samples/K.wav");
   player_K.toMaster();
 
-  player_L = new Tone.Player("/midterm-p5-test/samples/samples/L.wav");
+  player_L = new Tone.Player("/midterm-p5-test/samples/L.wav");
   player_L.toMaster();
 
-  player_M = new Tone.Player("/midterm-p5-test/samples/samples/M.wav");
+  player_M = new Tone.Player("/midterm-p5-test/samples/M.wav");
   player_M.toMaster();
 
-  player_N = new Tone.Player("/midterm-p5-test/samples/samples/N.wav");
+  player_N = new Tone.Player("/midterm-p5-test/samples/N.wav");
   player_N.toMaster();
 
-  player_O = new Tone.Player("/midterm-p5-test/samples/samples/O.wav");
+  player_O = new Tone.Player("/midterm-p5-test/samples/O.wav");
   player_O.toMaster();
 
-  player_P = new Tone.Player("/midterm-p5-test/samples/samples/P.wav");
+  player_P = new Tone.Player("/midterm-p5-test/samples/P.wav");
   player_P.toMaster();
 
-  player_Q = new Tone.Player("/midterm-p5-test/samples/samples/Q.wav");
+  player_Q = new Tone.Player("/midterm-p5-test/samples/Q.wav");
   player_Q.toMaster();
 
-  player_R = new Tone.Player("/midterm-p5-test/samples/samples/R.wav");
+  player_R = new Tone.Player("/midterm-p5-test/samples/R.wav");
   player_R.toMaster();
 
-  player_S = new Tone.Player("/midterm-p5-test/samples/samples/S.wav");
+  player_S = new Tone.Player("/midterm-p5-test/samples/S.wav");
   player_S.toMaster();
 
-  player_T = new Tone.Player("/midterm-p5-test/samples/samples/T.wav");
+  player_T = new Tone.Player("/midterm-p5-test/samples/T.wav");
   player_T.toMaster();
 
-  player_U = new Tone.Player("/midterm-p5-test/samples/samples/U.wav");
+  player_U = new Tone.Player("/midterm-p5-test/samples/U.wav");
   player_U.toMaster();
 
-  player_V = new Tone.Player("/midterm-p5-test/samples/samples/V.wav");
+  player_V = new Tone.Player("/midterm-p5-test/samples/V.wav");
   player_V.toMaster();
 
-  player_W = new Tone.Player("/midterm-p5-test/samples/samples/W.wav");
+  player_W = new Tone.Player("/midterm-p5-test/samples/W.wav");
   player_W.toMaster();
 
-  player_X = new Tone.Player("/midterm-p5-test/samples/samples/X.wav");
+  player_X = new Tone.Player("/midterm-p5-test/samples/X.wav");
   player_X.toMaster();
 
-  player_Y = new Tone.Player("/midterm-p5-test/samples/samples/Y.wav");
+  player_Y = new Tone.Player("/midterm-p5-test/samples/Y.wav");
   player_Y.toMaster();
 
-  player_Z = new Tone.Player("/midterm-p5-test/samples/samples/Z.wav");
+  player_Z = new Tone.Player("/midterm-p5-test/samples/Z.wav");
   player_Z.toMaster();
 
   //////////////
-  player_0 = new Tone.Player("/midterm-p5-test/samples/samples/0.wav");
+  player_0 = new Tone.Player("/midterm-p5-test/samples/0.wav");
   player_0.toMaster();
 
-  player_1 = new Tone.Player("/midterm-p5-test/samples/samples/1.wav");
+  player_1 = new Tone.Player("/midterm-p5-test/samples/1.wav");
   player_1.toMaster();
 
-  player_2 = new Tone.Player("/midterm-p5-test/samples/samples/2.wav");
+  player_2 = new Tone.Player("/midterm-p5-test/samples/2.wav");
   player_2.toMaster();
 
-  player_3 = new Tone.Player("/midterm-p5-test/samples/samples/3.wav");
+  player_3 = new Tone.Player("/midterm-p5-test/samples/3.wav");
   player_3.toMaster();
 
-  player_4 = new Tone.Player("/midterm-p5-test/samples/samples/4.wav");
+  player_4 = new Tone.Player("/midterm-p5-test/samples/4.wav");
   player_4.toMaster();
 
-  player_5 = new Tone.Player("/midterm-p5-test/samples/samples/5.wav");
+  player_5 = new Tone.Player("/midterm-p5-test/samples/5.wav");
   player_5.toMaster();
 
-  player_6 = new Tone.Player("/midterm-p5-test/samples/samples/6.wav");
+  player_6 = new Tone.Player("/midterm-p5-test/samples/6.wav");
   player_6.toMaster();
 
-  player_7 = new Tone.Player("/midterm-p5-test/samples/samples/7.wav");
+  player_7 = new Tone.Player("/midterm-p5-test/samples/7.wav");
   player_7.toMaster();
 
-  player_8 = new Tone.Player("/midterm-p5-test/samples/samples/8.wav");
+  player_8 = new Tone.Player("/midterm-p5-test/samples/8.wav");
   player_8.toMaster();
 
-  player_9 = new Tone.Player("/midterm-p5-test/samples/samples/9.wav");
+  player_9 = new Tone.Player("/midterm-p5-test/samples/9.wav");
   player_9.toMaster();
 
   //////////////
-  player_SPACE = new Tone.Player("/midterm-p5-test/samples/samples/SPACE.wav");
+  player_SPACE = new Tone.Player("/midterm-p5-test/samples/SPACE.wav");
   player_SPACE.toMaster();
 
-  player_DELETE = new Tone.Player("/midterm-p5-test/samples/samples/DELETE.wav");
+  player_DELETE = new Tone.Player("/midterm-p5-test/samples/DELETE.wav");
   player_DELETE.toMaster();
 
   //////////////
-  player_PERIOD = new Tone.Player("/midterm-p5-test/samples/samples/PERIOD.wav");
+  player_PERIOD = new Tone.Player("/midterm-p5-test/samples/PERIOD.wav");
   player_PERIOD.toMaster();
 
-  player_COMMA = new Tone.Player("/midterm-p5-test/samples/samples/COMMA.wav");
+  player_COMMA = new Tone.Player("/midterm-p5-test/samples/COMMA.wav");
   player_COMMA.toMaster();
   
   myFont = loadFont('/midterm-p5-test/samples/assets/DejaVuSans-ExtraLight.ttf');
