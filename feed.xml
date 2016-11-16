@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-11-16T23:56:49+08:00</updated><id>//</id><title type="html">Zhang Zhan</title><subtitle>Interactive Media Arts Student</subtitle><entry><title type="html">Pop &amp;amp; Poem Typewriter</title><link href="/pop-and-poem-typewriter/" rel="alternate" type="text/html" title="Pop &amp; Poem Typewriter" /><published>2016-10-04T00:00:00+08:00</published><updated>2016-10-04T00:00:00+08:00</updated><id>/pop-and-poem-typewriter</id><content type="html" xml:base="/pop-and-poem-typewriter/">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-pop-and-poem-typewriter/&quot; target=&quot;_blank&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt; (for a better experience, please open the link in Google Chrome)
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-11-17T00:00:44+08:00</updated><id>//</id><title type="html">Zhang Zhan</title><subtitle>Interactive Media Arts Student</subtitle><entry><title type="html">Pop &amp;amp; Poem Typewriter</title><link href="/pop-and-poem-typewriter/" rel="alternate" type="text/html" title="Pop &amp; Poem Typewriter" /><published>2016-10-04T00:00:00+08:00</published><updated>2016-10-04T00:00:00+08:00</updated><id>/pop-and-poem-typewriter</id><content type="html" xml:base="/pop-and-poem-typewriter/">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-pop-and-poem-typewriter/&quot; target=&quot;_blank&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt; (for a better experience, please open the link in Google Chrome)
 &lt;!-- &lt;div class=&quot;br&quot;&gt;&lt;/div&gt; --&gt;
 &lt;!-- &lt;div class=&quot;br&quot;&gt;&lt;/div&gt; --&gt;&lt;/p&gt;
 
@@ -91,18 +91,18 @@
 
 &lt;p&gt;This project echoes the English idiom “airing your dirty laundry”, which means to talk about things (usually a problem or dispute) that should be kept private. Tweets containing “dirty” appear first on the quilt with an increasing speed, and color of the tweets multiply when they overlap, which applies a dirty-looking color onto the pure white surface. After participants hit the space bar, tweets containing “clean” in white color will show up and take over the surface to “wash out” the “dirt”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/airing-dirty-laundry-1.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/airing-dirty-laundry-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/airing-dirty-laundry-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-3.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/airing-dirty-laundry-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-5.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-6.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-7.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-8.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-9.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-10.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-11.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/airing-dirty-laundry-12.JPG&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/airing-dirty-laundry-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Built for Kinetic Interface Design class at NYU Shanghai.&lt;/p&gt;
 
@@ -290,12 +290,12 @@
 &lt;iframe src=&quot;https://player.vimeo.com/video/150312990&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/150312990&quot;&gt;Little Talks (Lip Sync Video)&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><category term="videos" /><summary type="html">Video project for Communications Lab class at NYU Shanghai. Lip sync video with the emphasis on creative transitions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/little-talks-featured-image.jpg" /></entry><entry><title type="html">Musical Gloves</title><link href="/musical-gloves/" rel="alternate" type="text/html" title="Musical Gloves" /><published>2013-12-01T00:00:00+08:00</published><updated>2013-12-01T00:00:00+08:00</updated><id>/musical-gloves</id><content type="html" xml:base="/musical-gloves/">&lt;p&gt;Musical Gloves is a creation for my Interaction Lab final project in 2013. It is inspired by the concept of the wearable device and my love for music. Conductive thread sewn into the gloves is connected to different pins on the Arduino board, so when two fingers touch each other, the particular circuit is activated and one certain sound piece will play on Processing. The serial communication between Arduino and Processing is realized by Firmata. By touching your left thumb with any of the four left hand fingers, you can select one of four background soundtracks. Meanwhile, by touching your right thumb with any of the other four right hand fingers, you can play one percussion sound as a beat to the background music.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/musical-gloves-1.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/musical-gloves-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/musical-gloves-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/musical-gloves-3.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/musical-gloves-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/musical-gloves-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/musical-gloves-5.JPG&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/musical-gloves-6.JPG&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/musical-gloves-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/musical-gloves-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/118234164&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/118234164&quot;&gt;Musical Gloves&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><category term="projects" /><summary type="html">Musical Gloves is a creation for my Interaction Lab final project in 2013. It is inspired by the concept of the wearable device and my love for music. Conductive thread sewn into the gloves is connected to different pins on the Arduino board, so when two fingers touch each other, the particular circuit is activated and one certain sound piece will play on Processing. The serial communication between Arduino and Processing is realized by Firmata. By touching your left thumb with any of the four left hand fingers, you can select one of four background soundtracks. Meanwhile, by touching your right thumb with any of the other four right hand fingers, you can play one percussion sound as a beat to the background music.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/musical-gloves-featured-image.jpg" /></entry></feed>
