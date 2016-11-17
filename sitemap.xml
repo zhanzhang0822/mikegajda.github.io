@@ -9,6 +9,10 @@
 <lastmod>2016-10-01T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>/mba-visual-identity-guide/</loc>
+<lastmod>2016-08-01T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>/jay-chou-fan-interview/</loc>
 <lastmod>2016-07-02T00:00:00+08:00</lastmod>
 </url>
@@ -19,10 +23,6 @@
 <url>
 <loc>/photography/</loc>
 <lastmod>2015-10-04T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>/design/</loc>
-<lastmod>2015-09-01T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>/laser-harp/</loc>
@@ -56,9 +56,9 @@
 <loc>/tag/videos/</loc>
 </url>
 <url>
-<loc>/tag/design/</loc>
+<loc>/tag/photography/</loc>
 </url>
 <url>
-<loc>/tag/photography/</loc>
+<loc>/tag/design/</loc>
 </url>
 </urlset>
