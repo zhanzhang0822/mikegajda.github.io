@@ -408,7 +408,7 @@ div.time {
 }
 @media screen and (max-width: 640px) {
   div.time {
-    margin-top: -8px;
+    margin-top: 0;
   }
 }
 
