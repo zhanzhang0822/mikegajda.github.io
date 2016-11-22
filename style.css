@@ -109,8 +109,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 28px;
-  line-height: 36px;
+  font-size: 20px;
+  line-height: 28px;
 }
 @media screen and (max-width: 640px) {
   h1 {
@@ -139,12 +139,12 @@ p {
 }
 
 a {
-  color: #4183C4;
+  color: #1C8ADE;
   text-decoration: none;
   cursor: pointer;
 }
 a:hover, a:active {
-  color: #4183C4;
+  color: #1C8ADE;
 }
 
 ul, ol {
@@ -199,6 +199,9 @@ strong, b {
     float: none;
     width: auto;
   }
+}
+.entry p {
+  font-size: 14px;
 }
 
 .post-single-page {
@@ -301,7 +304,7 @@ strong, b {
   cursor: pointer;
   font-family: Inconsolata;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 20px;
 }
 .site-name a {
   letter-spacing: -1px;
@@ -319,10 +322,10 @@ strong, b {
 }
 
 nav {
-  margin-top: 72px;
+  margin-top: 57px;
   margin-bottom: 15px;
   font-family: Inconsolata;
-  font-size: 18px;
+  font-size: 14px;
 }
 @media screen and (max-width: 640px) {
   nav {
@@ -404,11 +407,11 @@ ul.tag-container {
 
 li.tag {
   list-style: none;
-  font-size: 20px;
+  font-size: 14px;
   float: left;
   margin-right: 10px;
   text-transform: capitalize;
-  color: #afafaf;
+  color: #666;
 }
 
 img.entry-image {
@@ -418,8 +421,8 @@ img.entry-image {
 }
 
 div.time {
-  font-size: 20px;
-  margin-top: 16px;
+  font-size: 14px;
+  margin-top: 10px;
 }
 @media screen and (max-width: 640px) {
   div.time {
@@ -434,7 +437,7 @@ iframe {
 
 .article-single-page {
   position: relative;
-  top: -28px;
+  top: -20px;
 }
 @media screen and (max-width: 640px) {
   .article-single-page {
@@ -493,7 +496,7 @@ footer {
 }
 
 .PageNavigation a:hover {
-  color: #4183C4;
+  color: #1C8ADE;
 }
 
 .PageNavigation .next {
@@ -501,8 +504,41 @@ footer {
 }
 
 .br-info {
-  height: 34px;
+  height: 26px;
   position: relative;
+}
+
+.br-cv {
+  height: 18px;
+  position: relative;
+}
+
+h4 {
+  font-size: 20px;
+  text-align: left;
+  color: #1C8ADE;
+  text-transform: uppercase;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 10px;
+}
+
+h5 {
+  color: #000;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 14px;
+  color: #666;
+  margin: 0;
+  padding: 0;
+}
+
+.cv-content p {
+  margin: 4px 0 4px 0;
+  font-size: 14px;
 }
 
 .highlight {
