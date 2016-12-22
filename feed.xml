@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-12-22T22:34:24+08:00</updated><id>//</id><title type="html">Zhang Zhan</title><subtitle>Interactive Media Arts Student</subtitle><entry><title type="html">Thirstea</title><link href="/2016/12/12/thirstea.html" rel="alternate" type="text/html" title="Thirstea" /><published>2016-12-12T00:00:00+08:00</published><updated>2016-12-12T00:00:00+08:00</updated><id>/2016/12/12/thirstea</id><content type="html" xml:base="/2016/12/12/thirstea.html">&lt;p&gt;Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day, with photos of the plant.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-12-22T23:10:55+08:00</updated><id>//</id><title type="html">Zhang Zhan</title><subtitle>Interactive Media Arts Student</subtitle><entry><title type="html">Thirstea</title><link href="/2016/12/12/thirstea.html" rel="alternate" type="text/html" title="Thirstea" /><published>2016-12-12T00:00:00+08:00</published><updated>2016-12-12T00:00:00+08:00</updated><id>/2016/12/12/thirstea</id><content type="html" xml:base="/2016/12/12/thirstea.html">&lt;p&gt;Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day, with photos of the plant.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/195745514&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/195745514&quot;&gt;Thirstea&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -31,7 +31,53 @@
 &lt;img src=&quot;/images/thirstea-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/thirstea-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/thirstea-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/thirstea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><category term="projects" /><summary type="html">Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day, with photos of the plant.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thirstea-featured-image.jpg" /></entry><entry><title type="html">A Song Without Words</title><link href="/2016/12/12/a-song-without-words.html" rel="alternate" type="text/html" title="A Song Without Words" /><published>2016-12-12T00:00:00+08:00</published><updated>2016-12-12T00:00:00+08:00</updated><id>/2016/12/12/a-song-without-words</id><content type="html" xml:base="/2016/12/12/a-song-without-words.html">&lt;p&gt;A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.&lt;/p&gt;
+&lt;img src=&quot;/images/thirstea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><category term="projects" /><summary type="html">Thirstea is a tea plant that feeds on the attention it gets on social media. The project is made up of a plant of tea tree and an irrigation system that is hooked to a Twitter bot and a webcam. The twitter bot will tweet about the growth of the plant every day, with photos of the plant.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/thirstea-featured-image.jpg" /></entry><entry><title type="html">Above The Sea</title><link href="/2016/12/12/above-the-sea.html" rel="alternate" type="text/html" title="Above The Sea" /><published>2016-12-12T00:00:00+08:00</published><updated>2016-12-12T00:00:00+08:00</updated><id>/2016/12/12/above-the-sea</id><content type="html" xml:base="/2016/12/12/above-the-sea.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-above-the-sea/&quot; target=&quot;_blank&quot;&gt;Above The Sea–Shanghai&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
+
+&lt;p&gt;Above The Sea translates weather forecast data(sea level and main weather condition) of a certain city into notes and chords and visualizes the data in a column system in p5. After being laser cut onto the clear acrylic board, the songs about the sea level and weather above the sea can be played on a record player.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/195638313&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/195638313&quot;&gt;Above The Sea&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Video filmed and editted by Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;Music: Bon Iver - 666 ʇ&lt;/p&gt;
+
+&lt;p&gt;This projects gets weather forecast data from the 5 day/3 hour forecast API from &lt;a href=&quot;http://openweathermap.org/api&quot; target=&quot;_blank&quot;&gt;OpenWeatherMap&lt;/a&gt;. Since the minimum unit of the data interval is 3 hours, the API gives me about 35-40 pairs of the sea level and main weather condition data. Each 3 hour interval represents one bar, and each bar has 8 beats of notes in membrane synth in one chord with a certain arrangement that represent main weather condition in that interval. There’s also a longer note created in FM synth representing the sea level. The API is live, which means it gets updated every 10 minutes(this interval is set in P5 so it can be changed easily).&lt;/p&gt;
+
+&lt;p&gt;With my professor Luisa’s help, I decided to map 4 main weather conditions received from the weather forecast API with notes in 4 different chords.&lt;/p&gt;
+
+&lt;p&gt;Clear – C major&lt;/p&gt;
+
+&lt;p&gt;Clouds – C minor&lt;/p&gt;
+
+&lt;p&gt;Rain – A minor&lt;/p&gt;
+
+&lt;p&gt;Snow – B minor&lt;/p&gt;
+
+&lt;p&gt;The sea level data aka the long note that lasts through one bar is mapped into a scale of C4, D4, E4, F4, G4, A4, B4, C5 note.&lt;/p&gt;
+
+&lt;p&gt;In order to preserve the songs, I opted to include &lt;a href=&quot;http://instructables.com/id/Laser-Cut-Record/?ALLSTEPS&quot; target=&quot;_blank&quot;&gt;laser cut records&lt;/a&gt; as part of the project since the idea itself is really fascinating and you can play it back anytime you want. I needed to record the piece first and then run it through the python program and processing sketch provided by the instructables post. However, I had to make some modifications such as the size of the records, the radius of the most inner grove, rpm, maximum size of the pdf files(since one song’s groves on one pdf will be way too much to be imported into illustrator, so I had to split them into 9 pdfs and then import them so that no groves will be missing.) I bought a record player on Taobao–230kuai–the cheapest but legitimate one I could find. I then did testing with a random song in three settings suggested by the post–frequency 5000, speed 100, dpi 1200, and power 12, 20 and 24. It turns out that power 20 one sounds the best.&lt;/p&gt;
+
+&lt;p&gt;Then I laser cut three music pieces I recorded on Dec 6 of three cities–New York, Prague, and Shanghai–where I lived since last year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/above-the-sea-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the laser cut process was done, I washed those three records with water and soap to get rid of all the tiny dust from the cutting processing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/above-the-sea-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen to the result in the video. :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/above-the-sea-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/above-the-sea-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><category term="projects" /><summary type="html">Project Demo: Above The Sea–Shanghai (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/above-the-sea-featured-image.jpg" /></entry><entry><title type="html">A Song Without Words</title><link href="/2016/12/12/a-song-without-words.html" rel="alternate" type="text/html" title="A Song Without Words" /><published>2016-12-12T00:00:00+08:00</published><updated>2016-12-12T00:00:00+08:00</updated><id>/2016/12/12/a-song-without-words</id><content type="html" xml:base="/2016/12/12/a-song-without-words.html">&lt;p&gt;A Song Without Words is an interactive dance piece using Kinect with projection of visuals created according to the body movement sensed by Kinect.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/195400876&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/195400876&quot;&gt;A Song Without Words&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -273,90 +319,4 @@
 &lt;p&gt;Film and edit by Zhang Zhan.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/181659266&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/181659266&quot;&gt;Shanghai Mercedes-Benz Arena - Bilibili Macro Link Fan Interview&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><category term="videos" /><summary type="html">Bilibili fan interview videos for Shanghai Mercedes-Benz Arena digital marketing purpose.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/bilibili-fan-interview-featured-image.jpg" /></entry><entry><title type="html">Photography test</title><link href="/2015/10/04/photography.html" rel="alternate" type="text/html" title="Photography test" /><published>2015-10-04T00:00:00+08:00</published><updated>2015-10-04T00:00:00+08:00</updated><id>/2015/10/04/photography</id><content type="html" xml:base="/2015/10/04/photography.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-pop-and-poem-typewriter/&quot; target=&quot;_blank&quot;&gt;Pop &amp;amp; Poem Typewriter&lt;/a&gt; (for a better experience, please open the link in Google Chrome)
-&lt;!-- &lt;div class=&quot;br&quot;&gt;&lt;/div&gt; --&gt;
-&lt;!-- &lt;div class=&quot;br&quot;&gt;&lt;/div&gt; --&gt;&lt;/p&gt;
-
-&lt;p&gt;Pop &amp;amp; Poem Typewriter is my midterm project for Code of Music class at NYU Shanghai. Each of the 40 Keys including A-Z(26), 0-9(10), Delete, Period, Comma, Space is linked to a small wav clip cut out from a pop song where the singer(s) spell out the letter or word. As you type a poem, a song made of those corresponding small clips will be triggered at the same time. I was looking to translate text into music to form the link between visual and aural via the contrast between letters in poem and pop music sound clips. To be honest, this project doesn’t have to involve poems, thus any text would trigger a piece of musical collage of short sound clips. I hope people could get a brand new experience of typing with the aural feedback that’s seldom happening when people type except for the monotone keyboard sound or the sounds of fingers hitting the buttons.&lt;/p&gt;
-
-&lt;p&gt;Song list:&lt;/p&gt;
-
-&lt;p&gt;A - The Jackson 5 - ABC&lt;/p&gt;
-
-&lt;p&gt;B - The Black Eyed Peas - Imma Be&lt;/p&gt;
-
-&lt;p&gt;C - Wiz Khalifa - See You Again ft. Charlie Puth&lt;/p&gt;
-
-&lt;p&gt;D - Fergie - Fergalicious&lt;/p&gt;
-
-&lt;p&gt;E - Macklemore &amp;amp; Ryan Lewis - Can’t Hold Us feat. Ray Dalton&lt;/p&gt;
-
-&lt;p&gt;F - Noah And The Whale - L.I.F.E.G.O.E.S.O.N.&lt;/p&gt;
-
-&lt;p&gt;G - Girls’ Generation(소녀시대) - Gee&lt;/p&gt;
-
-&lt;p&gt;H - Jay-Z - Izzo (H.O.V.A.)&lt;/p&gt;
-
-&lt;p&gt;I - Selena Gomez &amp;amp; The Scene - Love You Like A Love Song&lt;/p&gt;
-
-&lt;p&gt;J - Jason Derulo - Don’t Wanna Go Home&lt;/p&gt;
-
-&lt;p&gt;K - The Script - If You See Kay&lt;/p&gt;
-
-&lt;p&gt;L -  Madonna - Give Me All Your Luvin’ (Feat. M.I.A. and Nicki Minaj)&lt;/p&gt;
-
-&lt;p&gt;M - Village People - YMCA&lt;/p&gt;
-
-&lt;p&gt;N - Ke$ha - Dinosaur&lt;/p&gt;
-
-&lt;p&gt;O - Nicki Minaj - Anaconda&lt;/p&gt;
-
-&lt;p&gt;P - Aretha Franklin - Respect&lt;/p&gt;
-
-&lt;p&gt;Q - 5 Seconds Of Summer - 18&lt;/p&gt;
-
-&lt;p&gt;R - Paramore - The Only Exception&lt;/p&gt;
-
-&lt;p&gt;S - Gwen Stefani - Hollaback Girl&lt;/p&gt;
-
-&lt;p&gt;T - Justice - D.A.N.C.E.&lt;/p&gt;
-
-&lt;p&gt;U - Katy Perry - Hot N Cold&lt;/p&gt;
-
-&lt;p&gt;V - Nat King Cole - L-O-V-E&lt;/p&gt;
-
-&lt;p&gt;W - Beyoncé - World Wide Woman&lt;/p&gt;
-
-&lt;p&gt;X - deadmau5 ft. Gerard Way - Professional Griefers&lt;/p&gt;
-
-&lt;p&gt;Y - MAGIC! - Rude&lt;/p&gt;
-
-&lt;p&gt;Z - Spice Girls - Wannabe&lt;/p&gt;
-
-&lt;p&gt;1 - Drake - One Dance (feat. Wizkid &amp;amp; Kyla)&lt;/p&gt;
-
-&lt;p&gt;2 - Justin Bieber - Sorry&lt;/p&gt;
-
-&lt;p&gt;3 - Britney Spears - 3&lt;/p&gt;
-
-&lt;p&gt;4 - Feist - 1234&lt;/p&gt;
-
-&lt;p&gt;5 - The Proclaimers - I’m Gonna Be (500 Miles)&lt;/p&gt;
-
-&lt;p&gt;6 - Far East Movement - Like A G6 ft. The Cataracs, DEV&lt;/p&gt;
-
-&lt;p&gt;7 - Lukas Graham - 7 Years&lt;/p&gt;
-
-&lt;p&gt;8 - Lady Gaga - Monster&lt;/p&gt;
-
-&lt;p&gt;9 - Lana Del Rey - Summertime Sadness&lt;/p&gt;
-
-&lt;p&gt;0 - Eminem - Space Bound&lt;/p&gt;
-
-&lt;p&gt;Delete - Maroon 5 - Unkiss Me&lt;/p&gt;
-
-&lt;p&gt;Period - French Montana - Figure it Out ft. Kanye West, Nas&lt;/p&gt;
-
-&lt;p&gt;Comma -  Coldplay - Every Teardrop Is a Waterfall&lt;/p&gt;
-
-&lt;p&gt;Space - Taylor Swift -  Blank Space&lt;/p&gt;</content><category term="photography" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/181659266&quot;&gt;Shanghai Mercedes-Benz Arena - Bilibili Macro Link Fan Interview&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><category term="videos" /><summary type="html">Bilibili fan interview videos for Shanghai Mercedes-Benz Arena digital marketing purpose.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/bilibili-fan-interview-featured-image.jpg" /></entry></feed>
