@@ -513,6 +513,11 @@ footer {
   position: relative;
 }
 
+.br-photo {
+  height: 1px;
+  position: relative;
+}
+
 h4 {
   font-size: 20px;
   text-align: left;
