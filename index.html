@@ -24,6 +24,10 @@
     <link rel="alternate" type="application/rss+xml" title="Zhang Zhan - Interactive Media Arts Student" href="/feed.xml" />
     <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
 
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+
+    <script src="/jquery.jscroll.min.js"></script>
+
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -297,6 +301,19 @@
         </footer>
       </div>
     </div> -->
+        <script>
+        function hideNavigationElements() {
+          $('.PageNavigation').css("display", "none");
+        };
+
+        $('.posts').jscroll({
+          nextSelector: 'a.next',
+          debug: true,
+          contentSelector: '.posts',
+          callback: hideNavigationElements
+        });
+    
+    </script>
 
     
 
