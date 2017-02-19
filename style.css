@@ -364,13 +364,13 @@ nav a {
   }
 }
 
-.posts > .post {
+.posts .post {
   padding-bottom: 15px;
   padding-top: 0;
   border-bottom: 0px solid #eee;
 }
 @media screen and (max-width: 640px) {
-  .posts > .post {
+  .posts .post {
     border-bottom: 1px solid #eee;
     margin-bottom: 25px;
   }
