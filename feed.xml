@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-20T16:37:55+08:00</updated><id>//</id><title type="html">Zhang Zhan</title><entry><title type="html">Balls</title><link href="/2017/03/02/balls.html" rel="alternate" type="text/html" title="Balls" /><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><id>/2017/03/02/balls</id><content type="html" xml:base="/2017/03/02/balls.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-balls/&quot; target=&quot;_blank&quot;&gt;Balls&lt;/a&gt; (for a better experience, please open the link on your mobile device)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-27T01:22:30+08:00</updated><id>//</id><title type="html">Zhang Zhan</title><entry><title type="html">Swing</title><link href="/2017/03/23/swing.html" rel="alternate" type="text/html" title="Swing" /><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><id>/2017/03/23/swing</id><content type="html" xml:base="/2017/03/23/swing.html">&lt;iframe src=&quot;https://player.vimeo.com/video/210139899&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/210139899&quot;&gt;Swing NIME final performance&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Filmed by Kinsa Durst&lt;/p&gt;
+
+&lt;p&gt;Edited by Zhang Zhan&lt;/p&gt;
+
+&lt;p&gt;Swing is my final project for NIME class at NYU Shanghai. It is an update of my previous project, Balls, based on p5.js and a mobile device that has the built-in accelerometer. I wanted to this it a step further by replacing p5.js with MAX/Msp as the sound generating platform and adding another physical object to amplify the movement triggering aspect of the project.&lt;/p&gt;
+
+&lt;p&gt;In this project, a phone is placed inside of the lantern with diecut pattern. The lantern is hung by an elastic string. The built-in accelerometer sends current X, Y, Z value to MAX/Msp patch via Open Sound Control. The patch triggers three different sounds with three separate gate/threshold on each of X, Y, Z data. Through this piece, I am trying to soundify the relative movement of an object with the intervention of elastic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/swing-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><category term="projects" /><summary type="html">Swing NIME final performance from Zhang Zhan on Vimeo.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/swing-featured-image.jpg" /></entry><entry><title type="html">Balls</title><link href="/2017/03/02/balls.html" rel="alternate" type="text/html" title="Balls" /><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><id>/2017/03/02/balls</id><content type="html" xml:base="/2017/03/02/balls.html">&lt;p&gt;Project Demo: &lt;a href=&quot;/p5-balls/&quot; target=&quot;_blank&quot;&gt;Balls&lt;/a&gt; (for a better experience, please open the link on your mobile device)&lt;/p&gt;
 
 &lt;p&gt;Balls is my project for NIME class at NYU Shanghai. Users open the project link on any mobile device with a built-in accelerometer, touch the screen once to activate sound, and shake the device. When two balls collide, short sound clips get triggered. There are three randomly generated balls so there are three differnt clips.&lt;/p&gt;
 
@@ -18,7 +40,7 @@
 &lt;iframe src=&quot;https://player.vimeo.com/video/195745514&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/195745514&quot;&gt;Thirstea&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Video filmed and editted by Zhang Zhan&lt;/p&gt;
+&lt;p&gt;Video filmed and edited by Zhang Zhan&lt;/p&gt;
 
 &lt;p&gt;Project by Richard Lewei Huang and Zhang Zhan&lt;/p&gt;
 
@@ -53,7 +75,7 @@
 &lt;iframe src=&quot;https://player.vimeo.com/video/195638313&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/195638313&quot;&gt;Above The Sea&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Video filmed and editted by Zhang Zhan&lt;/p&gt;
+&lt;p&gt;Video filmed and edited by Zhang Zhan&lt;/p&gt;
 
 &lt;p&gt;Music: Bon Iver - 666 ʇ&lt;/p&gt;
 
@@ -103,7 +125,7 @@
 
 &lt;p&gt;Filmed by Jingyi Sun, Maggie Walsh and Zhang Zhan&lt;/p&gt;
 
-&lt;p&gt;Editted by Zhang Zhan&lt;/p&gt;
+&lt;p&gt;Edited by Zhang Zhan&lt;/p&gt;
 
 &lt;p&gt;This dance piece is a visual response to the song, 无言歌, by Sandy Lam. My friend, Ann Yang, a talented dancer, choreographed this dance under my general guideline. There are four stages in the dance performance–birth, accumulation, explosion, and decay. Each stage is represented by different visual effects such as point cloud, particle explosion system, particle ring, and particles collapsing. The main point cloud figure is the live visual resemblance of the dancer, and the dancer also react to the visuals by modifying her dance routines based on what the visual is created by her previous movements and positions.&lt;/p&gt;
 
@@ -124,7 +146,7 @@
 
 &lt;p&gt;Filmed by Alexis Zerafa, Xiran Yang and Zhang Zhan&lt;/p&gt;
 
-&lt;p&gt;Editted by Alexis Zerafa&lt;/p&gt;
+&lt;p&gt;Edited by Alexis Zerafa&lt;/p&gt;
 
 &lt;p&gt;This project focuses on the narcissistic behaviors shared by common human beings. We would like to raise the participant’s self-awareness of narcissism by angling the mirror that people tend to walk up to and where they look at themselves. This action disables them from looking at themselves in the mirror and, instead, participants are forced to look at the reflection of others in the room. We like this idea because not only is the concept persuasive and easy to convey, but also the physical object is simplistic and relevant to a broad audience.&lt;/p&gt;
 
@@ -255,34 +277,4 @@
 
 &lt;p&gt;Comma - Coldplay - Every Teardrop Is a Waterfall&lt;/p&gt;
 
-&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><category term="projects" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry><entry><title type="html">Project 1933</title><link href="/2016/10/03/project-1933.html" rel="alternate" type="text/html" title="Project 1933" /><published>2016-10-03T00:00:00+08:00</published><updated>2016-10-03T00:00:00+08:00</updated><id>/2016/10/03/project-1933</id><content type="html" xml:base="/2016/10/03/project-1933.html">&lt;p&gt;Project 1933, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/188636034&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/188636034&quot;&gt;Project 1933&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user36907083&quot;&gt;Zhang Zhan&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Video editted by Kevin Pham&lt;/p&gt;
-
-&lt;p&gt;Filmed by Zhang Zhan&lt;/p&gt;
-
-&lt;p&gt;Project by Dyadra Saulsberry, Xiran Yang, Kevin Pham and Zhang Zhan&lt;/p&gt;
-
-&lt;p&gt;1933 video credit: &lt;a href=&quot;https://www.youtube.com/watch?v=bRKGEOmG9tM&quot; target=&quot;_blank&quot;&gt;youtube.com/watch?v=bRKGEOmG9tM&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Music: &lt;a href=&quot;https://soundcloud.com/odesza/light-instrumental?in=odesza/sets/in-return-deluxe-edition-disc&quot; target=&quot;_blank&quot;&gt;Lights (Instrumental)&lt;/a&gt; by ODESZA&lt;/p&gt;
-
-&lt;p&gt;The slaughterhouse was designed by a UK designer in pre-communist Shanghai. The building now has been turned into a commercial hub for creative industries led by a local company owned by the government. Although the space was utilized as a factory and cold storage space after being abandoned as an actual slaughterhouse(correction to our statement in class that the slaughterhouse was never used for slaughter, http://www.lacasapark.com/la/2011/11/the-last- slaughterhouse-on-earth-1933-shanghai/), its unique architecture style where each floor is connected to an outer shell by interlocking ramps(“cattle walks”), bridges, and spiral staircases designed to control the flow of both people and cattle being processed through the building has become a legacy that has brought more and more contemporary elements into this space.&lt;/p&gt;
-
-&lt;p&gt;Project 1933 contains three main parts – IV bucket filled with blood while blood dripping from the lower end, a black box covered with grass on top and twined by grey tube where flows the blood collected by the funnel within the grass, and a pond surrounding the box inside which human figure kneel down. Blood echoes the original usage of this space. Black box is a simplified symbol of the space itself, however, the cattle walks that are going up gradually along the walls of the building are not simplified; instead, the tube twining the box represents since our common interest of the space is the carved cattle walks. The pond echoes with the actual pond at the space and functions as a symbol of a pool of consumerism.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/project-1933-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><category term="projects" /><summary type="html">Project 1933, an interactive installation built for Interactive Installation class at NYU Shanghai, is responding to 1933 Slaughterhouse in Hongkou District, Shanghai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/project-1933-featured-image.jpg" /></entry></feed>
+&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><category term="projects" /><summary type="html">Project Demo: Pop &amp;amp; Poem Typewriter (for a better experience, please open the link in Google Chrome)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry></feed>
