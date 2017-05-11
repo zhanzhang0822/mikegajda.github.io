@@ -83,6 +83,7 @@ body {
 
 .container {
   margin: 0 auto;
+  min-width: 170px;
   padding: 0 10px;
 }
 
@@ -264,6 +265,7 @@ strong, b {
 .masthead {
   border-bottom: 0 solid #eee;
   text-align: right;
+  min-width: 170px;
 }
 @media screen and (max-width: 640px) {
   .masthead {
