@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-10-24T01:15:00+08:00</updated><id>/</id><title type="html">Zhang Zhan</title><entry><title type="html">Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital</title><link href="/2017/05/01/exposed-and-interlaced.html" rel="alternate" type="text/html" title="Exposed &amp; Interlaced – Exploring Motion in Analog and Digital" /><published>2017-05-01T00:00:00+08:00</published><updated>2017-05-01T00:00:00+08:00</updated><id>/2017/05/01/exposed-and-interlaced</id><content type="html" xml:base="/2017/05/01/exposed-and-interlaced.html">&lt;p&gt;&lt;em&gt;Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital&lt;/em&gt; is a sequence of imaging chronicling a dance performance into 10 different fragments. The viewer will be able to view each fragment as a long exposure film print, as a representation of analog means, and an interactive lenticular that will allow the viewer to see a short video clip by changing their perspective, as a representation of digital means. The fragments will be displayed sequentially to communicate the entire dance performance.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-10-24T01:52:42+08:00</updated><id>/</id><title type="html">Zhang Zhan</title><entry><title type="html">Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital</title><link href="/2017/05/01/exposed-and-interlaced.html" rel="alternate" type="text/html" title="Exposed &amp; Interlaced – Exploring Motion in Analog and Digital" /><published>2017-05-01T00:00:00+08:00</published><updated>2017-05-01T00:00:00+08:00</updated><id>/2017/05/01/exposed-and-interlaced</id><content type="html" xml:base="/2017/05/01/exposed-and-interlaced.html">&lt;p&gt;&lt;em&gt;Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital&lt;/em&gt; is a sequence of imaging chronicling a dance performance into 10 different fragments. The viewer will be able to view each fragment as a long exposure film print, as a representation of analog means, and an interactive lenticular that will allow the viewer to see a short video clip by changing their perspective, as a representation of digital means. The fragments will be displayed sequentially to communicate the entire dance performance.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/215510021&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -435,7 +435,26 @@ Kinect captured point cloud
 &lt;img src=&quot;/images/swing-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/swing-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/swing-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Swing is a new music interface installation featuring a swinging lattern with elastics. It soundifies locations, acceleration, and also elasticity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/swing-featured-image.jpg" /></entry><entry><title type="html">NYU Shanghai Inaugural Commencement</title><link href="/2017/02/01/nyu-shanghai-commencement.html" rel="alternate" type="text/html" title="NYU Shanghai Inaugural Commencement" /><published>2017-02-01T00:00:00+08:00</published><updated>2017-02-01T00:00:00+08:00</updated><id>/2017/02/01/nyu-shanghai-commencement</id><content type="html" xml:base="/2017/02/01/nyu-shanghai-commencement.html">&lt;p&gt;Various signage and installation design for NYU Shanghai Inaugural Commencement.&lt;/p&gt;
+&lt;img src=&quot;/images/swing-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Swing is a new music interface installation featuring a swinging lattern with elastics. It soundifies locations, acceleration, and also elasticity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/swing-featured-image.jpg" /></entry><entry><title type="html">DISTANCE</title><link href="/2017/03/01/distance.html" rel="alternate" type="text/html" title="DISTANCE" /><published>2017-03-01T00:00:00+08:00</published><updated>2017-03-01T00:00:00+08:00</updated><id>/2017/03/01/distance</id><content type="html" xml:base="/2017/03/01/distance.html">&lt;p&gt;&lt;em&gt;DISTANCE&lt;/em&gt; is a n&lt;/p&gt;
+
+&lt;p&gt;Project Demo: &lt;a href=&quot;/distance/&quot; target=&quot;_blank&quot;&gt;DISTANCE&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;DISTANCE&lt;/em&gt; is my final project for NIME class at NYU Shanghai. It is an update of my previous project, Balls, based on p5.js and a mobile device that has the built-in accelerometer. I wanted to this it a step further by replacing p5.js with MAX/Msp as the sound generating platform and adding another physical object to amplify the movement triggering aspect of the project.&lt;/p&gt;
+
+&lt;p&gt;In this project, a phone is placed inside of the lantern with diecut pattern. The lantern is hung by an elastic string. The built-in accelerometer sends current X, Y, Z value to MAX/Msp patch via Open Sound Control. The patch triggers three different sounds with three separate gate/threshold on each of X, Y, Z data. Through this piece, I am trying to soundify the relative movement of an object with the intervention of elastic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/swing-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
+&lt;img src=&quot;/images/swing-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">DISTANCE is a n</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/distance-featured-image.jpg" /></entry><entry><title type="html">NYU Shanghai Inaugural Commencement</title><link href="/2017/02/01/nyu-shanghai-commencement.html" rel="alternate" type="text/html" title="NYU Shanghai Inaugural Commencement" /><published>2017-02-01T00:00:00+08:00</published><updated>2017-02-01T00:00:00+08:00</updated><id>/2017/02/01/nyu-shanghai-commencement</id><content type="html" xml:base="/2017/02/01/nyu-shanghai-commencement.html">&lt;p&gt;Various signage and installation design for NYU Shanghai Inaugural Commencement.&lt;/p&gt;
 
 &lt;p&gt;I am currently working in the design team for New York University Shanghai Commencement Committee for 88 上海, the inaugural commencement countdown event series.&lt;/p&gt;
 
@@ -682,33 +701,4 @@ Kinect captured point cloud
 
 &lt;p&gt;Comma - Coldplay - Every Teardrop Is a Waterfall&lt;/p&gt;
 
-&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Pop &amp;amp; Poem Typewriter is an interactive web-based project where users type a poem while triggering sound clips from various pop songs that read out whatever letters users are typing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry><entry><title type="html">Project 1933</title><link href="/2016/10/03/project-1933.html" rel="alternate" type="text/html" title="Project 1933" /><published>2016-10-03T00:00:00+08:00</published><updated>2016-10-03T00:00:00+08:00</updated><id>/2016/10/03/project-1933</id><content type="html" xml:base="/2016/10/03/project-1933.html">&lt;p&gt;&lt;em&gt;Project 1933&lt;/em&gt; is an interactive installation that responds to 1933 Slaughterhouse in Hongkou District, Shanghai. Blood drops into a black cube and flows to the pond surrounding the bottom of the cube via a spiral tube. Blood represents slaughter and the spiral tube represents cattle walk ramps.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/188636034&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The slaughterhouse was designed by a UK designer in pre-communist Shanghai. The building now has been turned into a commercial hub for creative industries led by a local company owned by the government. Although the space was utilized as a factory and cold storage space after being abandoned as an actual slaughterhouse, its unique architecture style where each floor is connected to an outer shell by interlocking ramps(“cattle walks”), bridges, and spiral staircases designed to control the flow of both people and cattle being processed through the building has become a legacy that has brought more and more contemporary elements into this space.&lt;/p&gt;
-
-&lt;p&gt;Project 1933 contains three main parts – IV bucket filled with blood while blood dripping from the lower end, a black box covered with grass on top and twined by grey tube where flows the blood collected by the funnel within the grass, and a pond surrounding the box inside which human figure kneel down. Blood echoes the original usage of this space. Black box is a simplified symbol of the space itself, however, the cattle walks that are going up gradually along the walls of the building are not simplified; instead, the tube twining the box represents since our common interest of the space is the carved cattle walks. The pond echoes with the actual pond at the space and functions as a symbol of a pool of consumerism.&lt;/p&gt;
-
-&lt;p&gt;Video edited by Kevin Pham&lt;/p&gt;
-
-&lt;p&gt;Filmed by Zhang Zhan&lt;/p&gt;
-
-&lt;p&gt;Project by Dyadra Saulsberry, Xiran Yang, Kevin Pham and Zhang Zhan&lt;/p&gt;
-
-&lt;p&gt;1933 video credit: &lt;a href=&quot;https://www.youtube.com/watch?v=bRKGEOmG9tM&quot; target=&quot;_blank&quot;&gt;youtube.com/watch?v=bRKGEOmG9tM&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Music: &lt;a href=&quot;https://soundcloud.com/odesza/light-instrumental?in=odesza/sets/in-return-deluxe-edition-disc&quot; target=&quot;_blank&quot;&gt;Lights (Instrumental)&lt;/a&gt; by ODESZA&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/project-1933-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/project-1933-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Project 1933 is an interactive installation that responds to 1933 Slaughterhouse in Hongkou District, Shanghai. Blood drops into a black cube and flows to the pond surrounding the bottom of the cube via a spiral tube. Blood represents slaughter and the spiral tube represents cattle walk ramps.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/project-1933-featured-image.jpg" /></entry></feed>
+&lt;p&gt;Space - Taylor Swift - Blank Space&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Pop &amp;amp; Poem Typewriter is an interactive web-based project where users type a poem while triggering sound clips from various pop songs that read out whatever letters users are typing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/pop-and-poem-typewriter-featured-image.jpg" /></entry></feed>
