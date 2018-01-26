@@ -9,10 +9,10 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     
-    <meta name="description" content="DISTANCE is an
+    <meta name="description" content="DISTANCE is inspired from a quote about the Moon and chinese poems I like where the Moon is romanticized as people’s beloved ones who are far away. In this project, users are able to get the distance between where they are and where their beloved ones are by entering two locations, and a visual comparison of their distance to the moon and the distance to the beloved ones will follow.
 
 " />
-    <meta property="og:description" content="DISTANCE is an
+    <meta property="og:description" content="DISTANCE is inspired from a quote about the Moon and chinese poems I like where the Moon is romanticized as people’s beloved ones who are far away. In this project, users are able to get the distance between where they are and where their beloved ones are by entering two locations, and a visual comparison of their distance to the moon and the distance to the beloved ones will follow.
 
 " />
     
@@ -65,26 +65,37 @@
    </h1>
 
   <div class="entry post-single-page">
-    <p><em>DISTANCE</em> is an</p>
+    <p><em>DISTANCE</em> is inspired from a quote about the Moon and chinese poems I like where the Moon is romanticized as people’s beloved ones who are far away. In this project, users are able to get the distance between where they are and where their beloved ones are by entering two locations, and a visual comparison of their distance to the moon and the distance to the beloved ones will follow.</p>
 
 <p>Project Demo: <a href="/distance/" target="_blank">DISTANCE</a> (for a better experience, please open the link in Google Chrome)</p>
 
-<p><em>DISTANCE</em> is my final project for NIME class at NYU Shanghai. It is an update of my previous project, Balls, based on p5.js and a mobile device that has the built-in accelerometer. I wanted to this it a step further by replacing p5.js with MAX/Msp as the sound generating platform and adding another physical object to amplify the movement triggering aspect of the project.</p>
+<p>There is this quote that I heard of before and to be honest I don’t remember exact words-it is basically saying no matter how far apart two people are, compared to the distance between earth and moon, it is a lot easier for the two to meet than one of them going to the moon. This might sound ridiculous, however, this quote reminded me of the common approach that many ancient Chinese poets used to express that they were longing for faraway beloved in their masterpieces. It can be summarized as “though we are far apart, both looking at the moon, and it de facto makes us closer to each other”.</p>
 
-<p>In this project, a phone is placed inside of the lantern with diecut pattern. The lantern is hung by an elastic string. The built-in accelerometer sends current X, Y, Z value to MAX/Msp patch via Open Sound Control. The patch triggers three different sounds with three separate gate/threshold on each of X, Y, Z data. Through this piece, I am trying to soundify the relative movement of an object with the intervention of elastic.</p>
+<p>This is my basic basic wireframe sketch for the webpage.</p>
 
-<p><img src="/images/swing-1.jpg" alt="_config.yml" />
-<img src="/images/swing-2.jpg" alt="_config.yml" />
-<img src="/images/swing-3.jpg" alt="_config.yml" />
-<img src="/images/swing-4.jpg" alt="_config.yml" />
-<img src="/images/swing-5.jpg" alt="_config.yml" />
-<img src="/images/swing-6.jpg" alt="_config.yml" />
-<img src="/images/swing-7.jpg" alt="_config.yml" />
-<img src="/images/swing-8.jpg" alt="_config.yml" />
-<img src="/images/swing-9.jpg" alt="_config.yml" />
-<img src="/images/swing-10.jpg" alt="_config.yml" />
-<img src="/images/swing-11.jpg" alt="_config.yml" />
-<img src="/images/swing-12.jpg" alt="_config.yml" /></p>
+<p><img src="/images/distance-1.jpg" alt="_config.yml" /></p>
+
+<p>On the main/”DISTANCE” page, users need to type in two locations, and on click, google map javascript api will return the distance. Once the distance is received, it will show up next to the location input area along with a compare button. The “COMPARE” button will lead you to the COMPARE page where you get to see two scaled lines acoording to the actual ration of distance between moon and earth and the ditance between two places users input earlier. The third page is a simple about page.</p>
+
+<p>Three buttons at the bottom of these three pages, about, distance, and my portfolio, so that users have to input locations and then go to compare page.</p>
+
+<p>Distance data is being passed to COMPARE page from DISTANCE/main page through “?d=xxxx” at the end of the URL.</p>
+
+<p>If possible I would like to add a transition animation, which could probably be done easier in p5. So I was thinking adding p5.js canvas onto the “COMPARE” page and display the distance more dynamically.</p>
+
+<p>I used three.js and Google map javascript api in this project.</p>
+
+<p>Credits:</p>
+
+<p>https://github.com/CoryG89/MoonDemo</p>
+
+<p>https://aerotwist.com/tutorials/getting-started-with-three-js/</p>
+
+<p>http://www.howtojs.org/getting-started-with-three-js-3d-earth-part-ii/</p>
+
+<p>http://learningthreejs.com/blog/2013/09/16/how-to-make-the-earth-in-webgl/</p>
+
+<p>https://mattloftus.github.io/2016/02/03/threejs-p2/</p>
 
 
   </div>

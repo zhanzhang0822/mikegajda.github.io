@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-26T17:46:33+08:00</updated><id>/</id><title type="html">Zhang Zhan</title><entry><title type="html">Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital</title><link href="/2017/05/01/exposed-and-interlaced.html" rel="alternate" type="text/html" title="Exposed &amp; Interlaced – Exploring Motion in Analog and Digital" /><published>2017-05-01T00:00:00+08:00</published><updated>2017-05-01T00:00:00+08:00</updated><id>/2017/05/01/exposed-and-interlaced</id><content type="html" xml:base="/2017/05/01/exposed-and-interlaced.html">&lt;p&gt;&lt;em&gt;Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital&lt;/em&gt; is a sequence of imaging chronicling a dance performance into 10 different fragments. The viewer will be able to view each fragment as a long exposure film print, as a representation of analog means, and an interactive lenticular that will allow the viewer to see a short video clip by changing their perspective, as a representation of digital means. The fragments will be displayed sequentially to communicate the entire dance performance.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-26T18:12:58+08:00</updated><id>/</id><title type="html">Zhang Zhan</title><entry><title type="html">Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital</title><link href="/2017/05/01/exposed-and-interlaced.html" rel="alternate" type="text/html" title="Exposed &amp; Interlaced – Exploring Motion in Analog and Digital" /><published>2017-05-01T00:00:00+08:00</published><updated>2017-05-01T00:00:00+08:00</updated><id>/2017/05/01/exposed-and-interlaced</id><content type="html" xml:base="/2017/05/01/exposed-and-interlaced.html">&lt;p&gt;&lt;em&gt;Exposed &amp;amp; Interlaced – Exploring Motion in Analog and Digital&lt;/em&gt; is a sequence of imaging chronicling a dance performance into 10 different fragments. The viewer will be able to view each fragment as a long exposure film print, as a representation of analog means, and an interactive lenticular that will allow the viewer to see a short video clip by changing their perspective, as a representation of digital means. The fragments will be displayed sequentially to communicate the entire dance performance.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/215510021&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -435,26 +435,37 @@ Kinect captured point cloud
 &lt;img src=&quot;/images/swing-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/swing-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
 &lt;img src=&quot;/images/swing-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Swing is a new music interface installation featuring a swinging lattern with elastics. It soundifies locations, acceleration, and also elasticity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/swing-featured-image.jpg" /></entry><entry><title type="html">DISTANCE</title><link href="/2017/03/01/distance.html" rel="alternate" type="text/html" title="DISTANCE" /><published>2017-03-01T00:00:00+08:00</published><updated>2017-03-01T00:00:00+08:00</updated><id>/2017/03/01/distance</id><content type="html" xml:base="/2017/03/01/distance.html">&lt;p&gt;&lt;em&gt;DISTANCE&lt;/em&gt; is an&lt;/p&gt;
+&lt;img src=&quot;/images/swing-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">Swing is a new music interface installation featuring a swinging lattern with elastics. It soundifies locations, acceleration, and also elasticity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/swing-featured-image.jpg" /></entry><entry><title type="html">DISTANCE</title><link href="/2017/03/01/distance.html" rel="alternate" type="text/html" title="DISTANCE" /><published>2017-03-01T00:00:00+08:00</published><updated>2017-03-01T00:00:00+08:00</updated><id>/2017/03/01/distance</id><content type="html" xml:base="/2017/03/01/distance.html">&lt;p&gt;&lt;em&gt;DISTANCE&lt;/em&gt; is inspired from a quote about the Moon and chinese poems I like where the Moon is romanticized as people’s beloved ones who are far away. In this project, users are able to get the distance between where they are and where their beloved ones are by entering two locations, and a visual comparison of their distance to the moon and the distance to the beloved ones will follow.&lt;/p&gt;
 
 &lt;p&gt;Project Demo: &lt;a href=&quot;/distance/&quot; target=&quot;_blank&quot;&gt;DISTANCE&lt;/a&gt; (for a better experience, please open the link in Google Chrome)&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;DISTANCE&lt;/em&gt; is my final project for NIME class at NYU Shanghai. It is an update of my previous project, Balls, based on p5.js and a mobile device that has the built-in accelerometer. I wanted to this it a step further by replacing p5.js with MAX/Msp as the sound generating platform and adding another physical object to amplify the movement triggering aspect of the project.&lt;/p&gt;
+&lt;p&gt;There is this quote that I heard of before and to be honest I don’t remember exact words-it is basically saying no matter how far apart two people are, compared to the distance between earth and moon, it is a lot easier for the two to meet than one of them going to the moon. This might sound ridiculous, however, this quote reminded me of the common approach that many ancient Chinese poets used to express that they were longing for faraway beloved in their masterpieces. It can be summarized as “though we are far apart, both looking at the moon, and it de facto makes us closer to each other”.&lt;/p&gt;
 
-&lt;p&gt;In this project, a phone is placed inside of the lantern with diecut pattern. The lantern is hung by an elastic string. The built-in accelerometer sends current X, Y, Z value to MAX/Msp patch via Open Sound Control. The patch triggers three different sounds with three separate gate/threshold on each of X, Y, Z data. Through this piece, I am trying to soundify the relative movement of an object with the intervention of elastic.&lt;/p&gt;
+&lt;p&gt;This is my basic basic wireframe sketch for the webpage.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/swing-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-9.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-10.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-11.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/swing-12.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">DISTANCE is an</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/distance-featured-image.jpg" /></entry><entry><title type="html">NYU Shanghai Inaugural Commencement</title><link href="/2017/02/01/nyu-shanghai-commencement.html" rel="alternate" type="text/html" title="NYU Shanghai Inaugural Commencement" /><published>2017-02-01T00:00:00+08:00</published><updated>2017-02-01T00:00:00+08:00</updated><id>/2017/02/01/nyu-shanghai-commencement</id><content type="html" xml:base="/2017/02/01/nyu-shanghai-commencement.html">&lt;p&gt;Various signage and installation design for NYU Shanghai Inaugural Commencement.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/distance-1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the main/”DISTANCE” page, users need to type in two locations, and on click, google map javascript api will return the distance. Once the distance is received, it will show up next to the location input area along with a compare button. The “COMPARE” button will lead you to the COMPARE page where you get to see two scaled lines acoording to the actual ration of distance between moon and earth and the ditance between two places users input earlier. The third page is a simple about page.&lt;/p&gt;
+
+&lt;p&gt;Three buttons at the bottom of these three pages, about, distance, and my portfolio, so that users have to input locations and then go to compare page.&lt;/p&gt;
+
+&lt;p&gt;Distance data is being passed to COMPARE page from DISTANCE/main page through “?d=xxxx” at the end of the URL.&lt;/p&gt;
+
+&lt;p&gt;If possible I would like to add a transition animation, which could probably be done easier in p5. So I was thinking adding p5.js canvas onto the “COMPARE” page and display the distance more dynamically.&lt;/p&gt;
+
+&lt;p&gt;I used three.js and Google map javascript api in this project.&lt;/p&gt;
+
+&lt;p&gt;Credits:&lt;/p&gt;
+
+&lt;p&gt;https://github.com/CoryG89/MoonDemo&lt;/p&gt;
+
+&lt;p&gt;https://aerotwist.com/tutorials/getting-started-with-three-js/&lt;/p&gt;
+
+&lt;p&gt;http://www.howtojs.org/getting-started-with-three-js-3d-earth-part-ii/&lt;/p&gt;
+
+&lt;p&gt;http://learningthreejs.com/blog/2013/09/16/how-to-make-the-earth-in-webgl/&lt;/p&gt;
+
+&lt;p&gt;https://mattloftus.github.io/2016/02/03/threejs-p2/&lt;/p&gt;</content><author><name></name></author><category term="interactive-media" /><summary type="html">DISTANCE is inspired from a quote about the Moon and chinese poems I like where the Moon is romanticized as people’s beloved ones who are far away. In this project, users are able to get the distance between where they are and where their beloved ones are by entering two locations, and a visual comparison of their distance to the moon and the distance to the beloved ones will follow.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/distance-featured-image.jpg" /></entry><entry><title type="html">NYU Shanghai Inaugural Commencement</title><link href="/2017/02/01/nyu-shanghai-commencement.html" rel="alternate" type="text/html" title="NYU Shanghai Inaugural Commencement" /><published>2017-02-01T00:00:00+08:00</published><updated>2017-02-01T00:00:00+08:00</updated><id>/2017/02/01/nyu-shanghai-commencement</id><content type="html" xml:base="/2017/02/01/nyu-shanghai-commencement.html">&lt;p&gt;Various signage and installation design for NYU Shanghai Inaugural Commencement.&lt;/p&gt;
 
 &lt;p&gt;I am currently working in the design team for New York University Shanghai Commencement Committee for 88 上海, the inaugural commencement countdown event series.&lt;/p&gt;
 
